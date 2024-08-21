@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me: dawood@lahorehack.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was born on Mars
 
 <!---
 da-wood69/da-wood69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
