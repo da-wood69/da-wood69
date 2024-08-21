@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and JS
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me: dawood@apmash.com
+- 📫 How to reach me: dawood@lahorehack.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was born on Mars
 
