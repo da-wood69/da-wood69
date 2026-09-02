@@ -9,5 +9,5 @@ Recent stuff:
 - [goldberg-emulator-macos](https://github.com/da-wood69/goldberg-emulator-macos) - macOS universal build support for Goldberg Steam Emulator.
 - [TrustLog](https://github.com/da-wood69/TrustLog) - Minecraft server log viewer and archiver.
 
-Website: [mdawood.me](https://mdawood.me)  
+Website: [mdawood.dev](https://mdawood.dev)  
 Email: me@mdawood.dev
