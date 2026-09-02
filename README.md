@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @da-wood69
-- 👀 I’m interested in Python and JS
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me: dawood@lahorehack.com
-- 😄 Pronouns: he/him
+# Muhammad Dawood
 
-<!---
-da-wood69/da-wood69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build small tools, web things, game/modding experiments, and the occasional repo that exists because I got annoyed enough to automate something.
+
+Most of my stuff is Python and JavaScript. I also end up in C/C++ when native builds, hooks, or compatibility work need sorting out.
+
+Some stuff here:
+
+- [goldberg-emulator-macos](https://github.com/da-wood69/goldberg-emulator-macos) - macOS universal build support for Goldberg Steam Emulator.
+- [gitfinity](https://github.com/da-wood69/gitfinity) - an infinite git committer.
+- [TrustLog](https://github.com/da-wood69/TrustLog) - Minecraft server log viewer and archiver.
+- [daydream-game](https://github.com/da-wood69/daydream-game) - game experiments in Godot.
+
+Reach me: dawood@lahorehack.com
